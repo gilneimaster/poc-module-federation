@@ -1,0 +1,11 @@
+<h3>Eu sou ProdutosComponent,<br>carregado a partir do Micro front-end 1</h3>
+<img [src]="'logo.png' | mfeBasePath" alt="logo" width="100">
+<table *ngIf="produtos">
+  <tbody>
+  <tr class="lista-produtos" *ngFor="let produto of produtos.products">
+    <td>{{ produto.id }}</td>
+<!--    <td><a [routerLink]="produto.id.toString()">{{ produto.title }}</a></td>-->
+        <td><a [routerLink]="[{outlets: {containerOutlet: ['produto', produto.id.toString()]}}]">{{ produto.title }}</a></td>
+  </tr>
+  </tbody>
+</table>

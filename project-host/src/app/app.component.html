@@ -1,0 +1,14 @@
+<div class="appComponent">
+  <h1>Aplicação HOST</h1>
+  <a routerLink="/">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;<a [routerLink]="[{outlets: {containerOutlet: ['outro-componente-local']}}]">Outro componente local</a>&nbsp;&nbsp;&nbsp;&nbsp;<a [routerLink]="[{outlets: {containerOutlet: ['outro-mfe']}}]">Outro componente em mfe3</a>
+  <router-outlet></router-outlet>
+  <div class="container">
+    <div class="menu">
+      <router-outlet name="menuOutlet"></router-outlet>
+    </div>
+    <div class="content">
+
+      <router-outlet name="containerOutlet"></router-outlet>
+    </div>
+  </div>
+</div>
