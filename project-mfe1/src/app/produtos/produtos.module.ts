@@ -14,4 +14,8 @@ import { LibDefaultModule } from "lib-default";
     LibDefaultModule
   ]
 })
-export class ProdutosModule { }
+export class ProdutosModule {
+  public static getMyComponent() {
+    return ProdutosComponent;
+  }
+}

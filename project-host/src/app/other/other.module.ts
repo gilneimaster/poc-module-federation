@@ -8,6 +8,9 @@ import { OtherComponent } from './other.component';
   declarations: [
     OtherComponent
   ],
+  exports: [
+    OtherComponent
+  ],
   imports: [
     CommonModule
   ]
