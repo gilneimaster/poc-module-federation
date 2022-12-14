@@ -1,5 +1,6 @@
 <h3>Eu sou ProdutosComponent,<br>carregado a partir do Micro front-end 1</h3>
 <img [src]="'logo.png' | mfeBasePath" alt="logo" width="100">
+<h4><a [routerLink]="'outro-micro-front-end'">Carregando outro micro front-end</a></h4>
 <table *ngIf="produtos">
   <tbody>
   <tr class="lista-produtos" *ngFor="let produto of produtos.products">

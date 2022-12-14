@@ -44,7 +44,6 @@ module.exports = {
           "@angular/router": { singleton: true, strictVersion: true, requiredVersion: 'auto' },
           "@angular/material": { singleton: true, strictVersion: true, requiredVersion: 'auto' },
           "@angular/cdk": { singleton: true, strictVersion: true, requiredVersion: 'auto' },
-          "lib-default": { singleton: true, strictVersion: true, requiredVersion: '0.0.1' },
           ...sharedMappings.getDescriptors()
         })
 

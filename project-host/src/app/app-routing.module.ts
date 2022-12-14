@@ -18,8 +18,7 @@ const routes: Routes = [
     }).then(m => m.ExpositorModule)
   },
   {
-    path: 'outro-mfe',
-    outlet: 'containerOutlet',
+    path: 'outro-micro-front-end',
     loadChildren: () => loadRemoteModule({
       remoteName: 'projectMfe3',
       exposedModule: './OutroMfeModule',
