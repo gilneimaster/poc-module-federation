@@ -1,0 +1,82 @@
+{
+  "json": {
+    "template": "application/json",
+    "reference": "[RFC8259]"
+  },
+  "mp4": {
+    "template": "application/mp4",
+    "reference": "[RFC4337][RFC6381]"
+  },
+  "otf": {
+    "template": "font/otf",
+    "reference": "[RFC8081]"
+  },
+  "sfnt": {
+    "template": "font/sfnt",
+    "reference": "[RFC8081]"
+  },
+  "ttf": {
+    "template": "font/ttf",
+    "reference": "[RFC8081]"
+  },
+  "woff": {
+    "template": "font/woff",
+    "reference": "[RFC8081]"
+  },
+  "woff2": {
+    "template": "font/woff2",
+    "reference": "[RFC8081]"
+  },
+  "bmp": {
+    "template": "image/bmp",
+    "reference": "[RFC7903]"
+  },
+  "gif": {
+    "template": "image/gif",
+    "reference": "[RFC2045][RFC2046]"
+  },
+  "jpg": {
+    "template": "image/jpeg",
+    "reference": "[RFC2045][RFC2046]"
+  },
+  "jpeg": {
+    "template": "image/jpeg",
+    "reference": "[RFC2045][RFC2046]"
+  },
+  "jfif": {
+    "template": "image/jpeg",
+    "reference": "[RFC2045][RFC2046]"
+  },
+  "pjpeg": {
+    "template": "image/jpeg",
+    "reference": "[RFC2045][RFC2046]"
+  },
+  "pjp": {
+    "template": "image/jpeg",
+    "reference": "[RFC2045][RFC2046]"
+  },
+  "png": {
+    "template": "image/png",
+    "reference": "[W3C][PNG_Working_Group]"
+  },
+  "tiff": {
+    "template": "image/tiff",
+    "reference": "[RFC3302]"
+  },
+  "svg": {
+    "Template": "image/svg+xml",
+    "Reference": "[W3C][http://www.w3.org/TR/SVG/mimereg.html]"
+  },
+  "apng": {
+    "Template": "image/apng",
+    "Reference": "[Mozilla][https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types]"
+  },
+  "webp": {
+    "Template": "image/webp",
+    "Reference": "[Mozilla][https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types]"
+  },
+  "avif": {
+    "Template": "image/avif",
+    "Reference": "[Mozilla][https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types]"
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "aces": {
+    "Template": "image/aces",
+    "Reference": "[SMPTE][Howard_Lukk]"
+  },
+  "apng": {
+    "Template": "image/apng",
+    "Reference": "[W3C][W3C_PNG_Working_Group]"
+  },
+  "avci": {
+    "Template": "image/avci",
+    "Reference": "[ISO-IEC_JTC1][David_Singer]"
+  },
+  "avcs": {
+    "Template": "image/avcs",
+    "Reference": "[ISO-IEC_JTC1][David_Singer]"
+  },
+  "avif": {
+    "Template": "image/avif",
+    "Reference": "[Alliance_for_Open_Media][Cyril_Concolato]"
+  },
+  "bmp": {
+    "Template": "image/bmp",
+    "Reference": "[RFC7903]"
+  },
+  "cgm": {
+    "Template": "image/cgm",
+    "Reference": "[Alan_Francis]"
+  },
+  "dicom-rle": {
+    "Template": "image/dicom-rle",
+    "Reference": "[DICOM_Standard_Committee][David_Clunie]"
+  },
+  "dpx": {
+    "Template": "image/dpx",
+    "Reference": "[SMPTE][SMPTE_Director_of_Standards_Development]"
+  },
+  "emf": {
+    "Template": "image/emf",
+    "Reference": "[RFC7903]"
+  },
+  "example": {
+    "Template": "image/example",
+    "Reference": "[RFC4735]"
+  },
+  "fits": {
+    "Template": "image/fits",
+    "Reference": "[RFC4047]"
+  },
+  "g3fax": {
+    "Template": "image/g3fax",
+    "Reference": "[RFC1494]"
+  },
+  "gif": {
+    "Template": "",
+    "Reference": "[RFC2045][RFC2046]"
+  },
+  "heic": {
+    "Template": "image/heic",
+    "Reference": "[ISO-IEC_JTC1][David_Singer]"
+  },
+  "heic-sequence": {
+    "Template": "image/heic-sequence",
+    "Reference": "[ISO-IEC_JTC1][David_Singer]"
+  },
+  "heif": {
+    "Template": "image/heif",
+    "Reference": "[ISO-IEC_JTC1][David_Singer]"
+  },
+  "heif-sequence": {
+    "Template": "image/heif-sequence",
+    "Reference": "[ISO-IEC_JTC1][David_Singer]"
+  },
+  "hej2k": {
+    "Template": "image/hej2k",
+    "Reference": "[ISO-IEC_JTC1][ITU-T]"
+  },
+  "hsj2": {
+    "Template": "image/hsj2",
+    "Reference": "[ISO-IEC_JTC1][ITU-T]"
+  },
+  "ief": {
+    "Template": "",
+    "Reference": "[RFC1314]"
+  },
+  "jls": {
+    "Template": "image/jls",
+    "Reference": "[DICOM_Standard_Committee][David_Clunie]"
+  },
+  "jp2": {
+    "Template": "image/jp2",
+    "Reference": "[RFC3745]"
+  },
+  "jpeg": {
+    "Template": "",
+    "Reference": "[RFC2045][RFC2046]"
+  },
+  "jph": {
+    "Template": "image/jph",
+    "Reference": "[ISO-IEC_JTC1][ITU-T]"
+  },
+  "jphc": {
+    "Template": "image/jphc",
+    "Reference": "[ISO-IEC_JTC1][ITU-T]"
+  },
+  "jpm": {
+    "Template": "image/jpm",
+    "Reference": "[RFC3745]"
+  },
+  "jpx": {
+    "Template": "image/jpx",
+    "Reference": "[RFC3745]"
+  },
+  "jxr": {
+    "Template": "image/jxr",
+    "Reference": "[ISO-IEC_JTC1][ITU-T]"
+  },
+  "jxrA": {
+    "Template": "image/jxrA",
+    "Reference": "[ISO-IEC_JTC1][ITU-T]"
+  },
+  "jxrS": {
+    "Template": "image/jxrS",
+    "Reference": "[ISO-IEC_JTC1][ITU-T]"
+  },
+  "jxs": {
+    "Template": "image/jxs",
+    "Reference": "[ISO-IEC_JTC1]"
+  },
+  "jxsc": {
+    "Template": "image/jxsc",
+    "Reference": "[ISO-IEC_JTC1]"
+  },
+  "jxsi": {
+    "Template": "image/jxsi",
+    "Reference": "[ISO-IEC_JTC1]"
+  },
+  "jxss": {
+    "Template": "image/jxss",
+    "Reference": "[ISO-IEC_JTC1]"
+  },
+  "ktx": {
+    "Template": "image/ktx",
+    "Reference": "[Khronos][Mark_Callow]"
+  },
+  "ktx2": {
+    "Template": "image/ktx2",
+    "Reference": "[Khronos][Mark_Callow]"
+  },
+  "naplps": {
+    "Template": "image/naplps",
+    "Reference": "[Ilya_Ferber]"
+  },
+  "png": {
+    "Template": "image/png",
+    "Reference": "[W3C][PNG_Working_Group]"
+  },
+  "prs.btif": {
+    "Template": "image/prs.btif",
+    "Reference": "[Ben_Simon]"
+  },
+  "prs.pti": {
+    "Template": "image/prs.pti",
+    "Reference": "[Juern_Laun]"
+  },
+  "pwg-raster": {
+    "Template": "image/pwg-raster",
+    "Reference": "[Michael_Sweet]"
+  },
+  "svg+xml": {
+    "Template": "image/svg+xml",
+    "Reference": "[W3C][http://www.w3.org/TR/SVG/mimereg.html]"
+  },
+  "t38": {
+    "Template": "image/t38",
+    "Reference": "[RFC3362]"
+  },
+  "tiff": {
+    "Template": "image/tiff",
+    "Reference": "[RFC3302]"
+  },
+  "tiff-fx": {
+    "Template": "image/tiff-fx",
+    "Reference": "[RFC3950]"
+  },
+  "vnd.adobe.photoshop": {
+    "Template": "image/vnd.adobe.photoshop",
+    "Reference": "[Kim_Scarborough]"
+  },
+  "vnd.airzip.accelerator.azv": {
+    "Template": "image/vnd.airzip.accelerator.azv",
+    "Reference": "[Gary_Clueit]"
+  },
+  "vnd.cns.inf2": {
+    "Template": "image/vnd.cns.inf2",
+    "Reference": "[Ann_McLaughlin]"
+  },
+  "vnd.dece.graphic": {
+    "Template": "image/vnd.dece.graphic",
+    "Reference": "[Michael_A_Dolan]"
+  },
+  "vnd.djvu": {
+    "Template": "image/vnd.djvu",
+    "Reference": "[Leon_Bottou]"
+  },
+  "vnd.dwg": {
+    "Template": "image/vnd.dwg",
+    "Reference": "[Jodi_Moline]"
+  },
+  "vnd.dxf": {
+    "Template": "image/vnd.dxf",
+    "Reference": "[Jodi_Moline]"
+  },
+  "vnd.dvb.subtitle": {
+    "Template": "image/vnd.dvb.subtitle",
+    "Reference": "[Peter_Siebert][Michael_Lagally]"
+  },
+  "vnd.fastbidsheet": {
+    "Template": "image/vnd.fastbidsheet",
+    "Reference": "[Scott_Becker]"
+  },
+  "vnd.fpx": {
+    "Template": "image/vnd.fpx",
+    "Reference": "[Marc_Douglas_Spencer]"
+  },
+  "vnd.fst": {
+    "Template": "image/vnd.fst",
+    "Reference": "[Arild_Fuldseth]"
+  },
+  "vnd.fujixerox.edmics-mmr": {
+    "Template": "image/vnd.fujixerox.edmics-mmr",
+    "Reference": "[Masanori_Onda]"
+  },
+  "vnd.fujixerox.edmics-rlc": {
+    "Template": "image/vnd.fujixerox.edmics-rlc",
+    "Reference": "[Masanori_Onda]"
+  },
+  "vnd.globalgraphics.pgb": {
+    "Template": "image/vnd.globalgraphics.pgb",
+    "Reference": "[Martin_Bailey]"
+  },
+  "vnd.microsoft.icon": {
+    "Template": "image/vnd.microsoft.icon",
+    "Reference": "[Simon_Butcher]"
+  },
+  "vnd.mix": {
+    "Template": "image/vnd.mix",
+    "Reference": "[Saveen_Reddy]"
+  },
+  "vnd.ms-modi": {
+    "Template": "image/vnd.ms-modi",
+    "Reference": "[Gregory_Vaughan]"
+  },
+  "vnd.mozilla.apng": {
+    "Template": "image/vnd.mozilla.apng",
+    "Reference": "[Stuart_Parmenter]"
+  },
+  "vnd.net-fpx": {
+    "Template": "image/vnd.net-fpx",
+    "Reference": "[Marc_Douglas_Spencer]"
+  },
+  "vnd.pco.b16": {
+    "Template": "image/vnd.pco.b16",
+    "Reference": "[PCO_AG][Jan_Zeman]"
+  },
+  "vnd.radiance": {
+    "Template": "image/vnd.radiance",
+    "Reference": "[Randolph_Fritz][Greg_Ward]"
+  },
+  "vnd.sealed.png": {
+    "Template": "image/vnd.sealed.png",
+    "Reference": "[David_Petersen]"
+  },
+  "vnd.sealedmedia.softseal.gif": {
+    "Template": "image/vnd.sealedmedia.softseal.gif",
+    "Reference": "[David_Petersen]"
+  },
+  "vnd.sealedmedia.softseal.jpg": {
+    "Template": "image/vnd.sealedmedia.softseal.jpg",
+    "Reference": "[David_Petersen]"
+  },
+  "vnd.svf": {
+    "Template": "image/vnd.svf",
+    "Reference": "[Jodi_Moline]"
+  },
+  "vnd.tencent.tap": {
+    "Template": "image/vnd.tencent.tap",
+    "Reference": "[Ni_Hui]"
+  },
+  "vnd.valve.source.texture": {
+    "Template": "image/vnd.valve.source.texture",
+    "Reference": "[Henrik_Andersson]"
+  },
+  "vnd.wap.wbmp": {
+    "Template": "image/vnd.wap.wbmp",
+    "Reference": "[Peter_Stark]"
+  },
+  "vnd.xiff": {
+    "Template": "image/vnd.xiff",
+    "Reference": "[Steven_Martin]"
+  },
+  "vnd.zbrush.pcx": {
+    "Template": "image/vnd.zbrush.pcx",
+    "Reference": "[Chris_Charabaruk]"
+  },
+  "wmf": {
+    "Template": "image/wmf",
+    "Reference": "[RFC7903]"
+  },
+  "x-emf - DEPRECATED in favor of image/emf": {
+    "Template": "image/emf",
+    "Reference": "[RFC7903]"
+  },
+  "x-wmf - DEPRECATED in favor of image/wmf": {
+    "Template": "image/wmf",
+    "Reference": "[RFC7903]"
+  }
+}

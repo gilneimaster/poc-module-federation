@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "properties": {
+    "fileTypeList": {
+      "description": "List of data that make up the MIME type of the files to be converted.\nIf you don't need a specific type, you should remove the 'fileTypeList' property of your options object.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "fileCategory": {
+            "description": "The type represents the general category into which the data type falls.\nFor exemple: image.",
+            "type": "string",
+            "default": "image",
+            "minLength": 3
+          },
+          "fileExtension": {
+            "description": "The subtype identifies the exact kind of data of the specified type the MIME type represents.\nFor exemple: png.",
+            "type": "string",
+            "default": "png",
+            "minLength": 2
+          }
+        },
+        "required": ["fileCategory", "fileExtension"]
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "default": [
+        {
+          "fileCategory": "image",
+          "fileExtension": "png"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "1d-interleaved-parityfec": {
+    "Template": "text/1d-interleaved-parityfec",
+    "Reference": "[RFC6015]"
+  },
+  "cache-manifest": {
+    "Template": "text/cache-manifest",
+    "Reference": "[W3C][Robin_Berjon]"
+  },
+  "calendar": {
+    "Template": "text/calendar",
+    "Reference": "[RFC5545]"
+  },
+  "cql": {
+    "Template": "text/cql",
+    "Reference": "[HL7][Bryn_Rhodes]"
+  },
+  "cql-expression": {
+    "Template": "text/cql-expression",
+    "Reference": "[HL7][Bryn_Rhodes]"
+  },
+  "cql-identifier": {
+    "Template": "text/cql-identifier",
+    "Reference": "[HL7][Bryn_Rhodes]"
+  },
+  "css": {
+    "Template": "text/css",
+    "Reference": "[RFC2318]"
+  },
+  "csv": {
+    "Template": "text/csv",
+    "Reference": "[RFC4180][RFC7111]"
+  },
+  "csv-schema": {
+    "Template": "text/csv-schema",
+    "Reference": "[National_Archives_UK][David_Underdown]"
+  },
+  "directory - DEPRECATED by RFC6350": {
+    "Template": "text/directory",
+    "Reference": "[RFC2425][RFC6350]"
+  },
+  "dns": {
+    "Template": "text/dns",
+    "Reference": "[RFC4027]"
+  },
+  "ecmascript (OBSOLETED in favor of text/javascript)": {
+    "Template": "text/ecmascript",
+    "Reference": "[RFC9239]"
+  },
+  "encaprtp": {
+    "Template": "text/encaprtp",
+    "Reference": "[RFC6849]"
+  },
+  "enriched": {
+    "Template": "",
+    "Reference": "[RFC1896]"
+  },
+  "example": {
+    "Template": "text/example",
+    "Reference": "[RFC4735]"
+  },
+  "fhirpath": {
+    "Template": "text/fhirpath",
+    "Reference": "[HL7][Bryn_Rhodes]"
+  },
+  "flexfec": {
+    "Template": "text/flexfec",
+    "Reference": "[RFC8627]"
+  },
+  "fwdred": {
+    "Template": "text/fwdred",
+    "Reference": "[RFC6354]"
+  },
+  "gff3": {
+    "Template": "text/gff3",
+    "Reference": "[Sequence_Ontology]"
+  },
+  "grammar-ref-list": {
+    "Template": "text/grammar-ref-list",
+    "Reference": "[RFC6787]"
+  },
+  "hl7v2": {
+    "Template": "text/hl7v2",
+    "Reference": "[HL7][Marc_Duteau]"
+  },
+  "html": {
+    "Template": "text/html",
+    "Reference": "[W3C][Robin_Berjon]"
+  },
+  "javascript": {
+    "Template": "text/javascript",
+    "Reference": "[RFC9239]"
+  },
+  "jcr-cnd": {
+    "Template": "text/jcr-cnd",
+    "Reference": "[Peeter_Piegaze]"
+  },
+  "markdown": {
+    "Template": "text/markdown",
+    "Reference": "[RFC7763]"
+  },
+  "mizar": {
+    "Template": "text/mizar",
+    "Reference": "[Jesse_Alama]"
+  },
+  "n3": {
+    "Template": "text/n3",
+    "Reference": "[W3C][Eric_Prudhommeaux]"
+  },
+  "parameters": {
+    "Template": "text/parameters",
+    "Reference": "[RFC7826]"
+  },
+  "parityfec": {
+    "Template": "text/parityfec",
+    "Reference": "[RFC3009]"
+  },
+  "plain": {
+    "Template": "",
+    "Reference": "[RFC2046][RFC3676][RFC5147]"
+  },
+  "provenance-notation": {
+    "Template": "text/provenance-notation",
+    "Reference": "[W3C][Ivan_Herman]"
+  },
+  "prs.fallenstein.rst": {
+    "Template": "text/prs.fallenstein.rst",
+    "Reference": "[Benja_Fallenstein]"
+  },
+  "prs.lines.tag": {
+    "Template": "text/prs.lines.tag",
+    "Reference": "[John_Lines]"
+  },
+  "prs.prop.logic": {
+    "Template": "text/prs.prop.logic",
+    "Reference": "[Hans-Dieter_A._Hiep]"
+  },
+  "raptorfec": {
+    "Template": "text/raptorfec",
+    "Reference": "[RFC6682]"
+  },
+  "RED": {
+    "Template": "text/RED",
+    "Reference": "[RFC4102]"
+  },
+  "rfc822-headers": {
+    "Template": "text/rfc822-headers",
+    "Reference": "[RFC6522]"
+  },
+  "richtext": {
+    "Template": "",
+    "Reference": "[RFC2045][RFC2046]"
+  },
+  "rtf": {
+    "Template": "text/rtf",
+    "Reference": "[Paul_Lindner]"
+  },
+  "rtp-enc-aescm128": {
+    "Template": "text/rtp-enc-aescm128",
+    "Reference": "[_3GPP]"
+  },
+  "rtploopback": {
+    "Template": "text/rtploopback",
+    "Reference": "[RFC6849]"
+  },
+  "rtx": {
+    "Template": "text/rtx",
+    "Reference": "[RFC4588]"
+  },
+  "SGML": {
+    "Template": "text/SGML",
+    "Reference": "[RFC1874]"
+  },
+  "shaclc": {
+    "Template": "text/shaclc",
+    "Reference": "[W3C_SHACL_Community_Group][Vladimir_Alexiev]"
+  },
+  "shex": {
+    "Template": "text/shex",
+    "Reference": "[W3C][Eric_Prudhommeaux]"
+  },
+  "spdx": {
+    "Template": "text/spdx",
+    "Reference": "[Linux_Foundation][Rose_Judge]"
+  },
+  "strings": {
+    "Template": "text/strings",
+    "Reference": "[IEEE-ISTO-PWG-PPP]"
+  },
+  "t140": {
+    "Template": "text/t140",
+    "Reference": "[RFC4103]"
+  },
+  "tab-separated-values": {
+    "Template": "text/tab-separated-values",
+    "Reference": "[Paul_Lindner]"
+  },
+  "troff": {
+    "Template": "text/troff",
+    "Reference": "[RFC4263]"
+  },
+  "turtle": {
+    "Template": "text/turtle",
+    "Reference": "[W3C][Eric_Prudhommeaux]"
+  },
+  "ulpfec": {
+    "Template": "text/ulpfec",
+    "Reference": "[RFC5109]"
+  },
+  "uri-list": {
+    "Template": "text/uri-list",
+    "Reference": "[RFC2483]"
+  },
+  "vcard": {
+    "Template": "text/vcard",
+    "Reference": "[RFC6350]"
+  },
+  "vnd.a": {
+    "Template": "text/vnd.a",
+    "Reference": "[Regis_Dehoux]"
+  },
+  "vnd.abc": {
+    "Template": "text/vnd.abc",
+    "Reference": "[Steve_Allen]"
+  },
+  "vnd.ascii-art": {
+    "Template": "text/vnd.ascii-art",
+    "Reference": "[Kim_Scarborough]"
+  },
+  "vnd.curl": {
+    "Template": "text/vnd.curl",
+    "Reference": "[Robert_Byrnes]"
+  },
+  "vnd.debian.copyright": {
+    "Template": "text/vnd.debian.copyright",
+    "Reference": "[Charles_Plessy]"
+  },
+  "vnd.DMClientScript": {
+    "Template": "text/vnd.DMClientScript",
+    "Reference": "[Dan_Bradley]"
+  },
+  "vnd.dvb.subtitle": {
+    "Template": "text/vnd.dvb.subtitle",
+    "Reference": "[Peter_Siebert][Michael_Lagally]"
+  },
+  "vnd.esmertec.theme-descriptor": {
+    "Template": "text/vnd.esmertec.theme-descriptor",
+    "Reference": "[Stefan_Eilemann]"
+  },
+  "vnd.exchangeable": {
+    "Template": "text/vnd.exchangeable",
+    "Reference": "[Martin_Cizek]"
+  },
+  "vnd.familysearch.gedcom": {
+    "Template": "text/vnd.familysearch.gedcom",
+    "Reference": "[Gordon_Clarke]"
+  },
+  "vnd.ficlab.flt": {
+    "Template": "text/vnd.ficlab.flt",
+    "Reference": "[Steve_Gilberd]"
+  },
+  "vnd.fly": {
+    "Template": "text/vnd.fly",
+    "Reference": "[John-Mark_Gurney]"
+  },
+  "vnd.fmi.flexstor": {
+    "Template": "text/vnd.fmi.flexstor",
+    "Reference": "[Kari_E._Hurtta]"
+  },
+  "vnd.gml": {
+    "Template": "text/vnd.gml",
+    "Reference": "[Mi_Tar]"
+  },
+  "vnd.graphviz": {
+    "Template": "text/vnd.graphviz",
+    "Reference": "[John_Ellson]"
+  },
+  "vnd.hans": {
+    "Template": "text/vnd.hans",
+    "Reference": "[Hill_Hanxv]"
+  },
+  "vnd.hgl": {
+    "Template": "text/vnd.hgl",
+    "Reference": "[Heungsub_Lee]"
+  },
+  "vnd.in3d.3dml": {
+    "Template": "text/vnd.in3d.3dml",
+    "Reference": "[Michael_Powers]"
+  },
+  "vnd.in3d.spot": {
+    "Template": "text/vnd.in3d.spot",
+    "Reference": "[Michael_Powers]"
+  },
+  "vnd.IPTC.NewsML": {
+    "Template": "text/vnd.IPTC.NewsML",
+    "Reference": "[IPTC]"
+  },
+  "vnd.IPTC.NITF": {
+    "Template": "text/vnd.IPTC.NITF",
+    "Reference": "[IPTC]"
+  },
+  "vnd.latex-z": {
+    "Template": "text/vnd.latex-z",
+    "Reference": "[Mikusiak_Lubos]"
+  },
+  "vnd.motorola.reflex": {
+    "Template": "text/vnd.motorola.reflex",
+    "Reference": "[Mark_Patton]"
+  },
+  "vnd.ms-mediapackage": {
+    "Template": "text/vnd.ms-mediapackage",
+    "Reference": "[Jan_Nelson]"
+  },
+  "vnd.net2phone.commcenter.command": {
+    "Template": "text/vnd.net2phone.commcenter.command",
+    "Reference": "[Feiyu_Xie]"
+  },
+  "vnd.radisys.msml-basic-layout": {
+    "Template": "text/vnd.radisys.msml-basic-layout",
+    "Reference": "[RFC5707]"
+  },
+  "vnd.senx.warpscript": {
+    "Template": "text/vnd.senx.warpscript",
+    "Reference": "[Pierre_Papin]"
+  },
+  "vnd.si.uricatalogue (OBSOLETED by request)": {
+    "Template": "text/vnd.si.uricatalogue",
+    "Reference": "[Nicholas_Parks_Young]"
+  },
+  "vnd.sun.j2me.app-descriptor": {
+    "Template": "text/vnd.sun.j2me.app-descriptor",
+    "Reference": "[Gary_Adams]"
+  },
+  "vnd.sosi": {
+    "Template": "text/vnd.sosi",
+    "Reference": "[Petter_Reinholdtsen]"
+  },
+  "vnd.trolltech.linguist": {
+    "Template": "text/vnd.trolltech.linguist",
+    "Reference": "[David_Lee_Lambert]"
+  },
+  "vnd.wap.si": {
+    "Template": "text/vnd.wap.si",
+    "Reference": "[WAP-Forum]"
+  },
+  "vnd.wap.sl": {
+    "Template": "text/vnd.wap.sl",
+    "Reference": "[WAP-Forum]"
+  },
+  "vnd.wap.wml": {
+    "Template": "text/vnd.wap.wml",
+    "Reference": "[Peter_Stark]"
+  },
+  "vnd.wap.wmlscript": {
+    "Template": "text/vnd.wap.wmlscript",
+    "Reference": "[Peter_Stark]"
+  },
+  "vtt": {
+    "Template": "text/vtt",
+    "Reference": "[W3C][Silvia_Pfeiffer]"
+  },
+  "xml": {
+    "Template": "text/xml",
+    "Reference": "[RFC7303]"
+  },
+  "xml-external-parsed-entity": {
+    "Template": "text/xml-external-parsed-entity",
+    "Reference": "[RFC7303]"
+  }
+}

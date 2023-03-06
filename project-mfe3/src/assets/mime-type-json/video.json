@@ -1,0 +1,358 @@
+{
+  "1d-interleaved-parityfec": {
+    "Template": "video/1d-interleaved-parityfec",
+    "Reference": "[RFC6015]"
+  },
+  "3gpp": {
+    "Template": "video/3gpp",
+    "Reference": "[RFC3839][RFC6381]"
+  },
+  "3gpp2": {
+    "Template": "video/3gpp2",
+    "Reference": "[RFC4393][RFC6381]"
+  },
+  "3gpp-tt": {
+    "Template": "video/3gpp-tt",
+    "Reference": "[RFC4396]"
+  },
+  "AV1": {
+    "Template": "video/AV1",
+    "Reference": "[Alliance_for_Open_Media]"
+  },
+  "BMPEG": {
+    "Template": "video/BMPEG",
+    "Reference": "[RFC3555]"
+  },
+  "BT656": {
+    "Template": "video/BT656",
+    "Reference": "[RFC3555]"
+  },
+  "CelB": {
+    "Template": "video/CelB",
+    "Reference": "[RFC3555]"
+  },
+  "DV": {
+    "Template": "video/DV",
+    "Reference": "[RFC6469]"
+  },
+  "encaprtp": {
+    "Template": "video/encaprtp",
+    "Reference": "[RFC6849]"
+  },
+  "example": {
+    "Template": "video/example",
+    "Reference": "[RFC4735]"
+  },
+  "FFV1": {
+    "Template": "video/FFV1",
+    "Reference": "[RFC9043]"
+  },
+  "flexfec": {
+    "Template": "video/flexfec",
+    "Reference": "[RFC8627]"
+  },
+  "H261": {
+    "Template": "video/H261",
+    "Reference": "[RFC4587]"
+  },
+  "H263": {
+    "Template": "video/H263",
+    "Reference": "[RFC3555]"
+  },
+  "H263-1998": {
+    "Template": "video/H263-1998",
+    "Reference": "[RFC4629]"
+  },
+  "H263-2000": {
+    "Template": "video/H263-2000",
+    "Reference": "[RFC4629]"
+  },
+  "H264": {
+    "Template": "video/H264",
+    "Reference": "[RFC6184]"
+  },
+  "H264-RCDO": {
+    "Template": "video/H264-RCDO",
+    "Reference": "[RFC6185]"
+  },
+  "H264-SVC": {
+    "Template": "video/H264-SVC",
+    "Reference": "[RFC6190]"
+  },
+  "H265": {
+    "Template": "video/H265",
+    "Reference": "[RFC7798]"
+  },
+  "H266": {
+    "Template": "video/H266",
+    "Reference": "[RFC9328]"
+  },
+  "iso.segment": {
+    "Template": "video/iso.segment",
+    "Reference": "[David_Singer][ISO-IEC_JTC1]"
+  },
+  "JPEG": {
+    "Template": "video/JPEG",
+    "Reference": "[RFC3555]"
+  },
+  "jpeg2000": {
+    "Template": "video/jpeg2000",
+    "Reference": "[RFC5371][RFC5372]"
+  },
+  "jxsv": {
+    "Template": "video/jxsv",
+    "Reference": "[RFC9134]"
+  },
+  "mj2": {
+    "Template": "video/mj2",
+    "Reference": "[RFC3745]"
+  },
+  "MP1S": {
+    "Template": "video/MP1S",
+    "Reference": "[RFC3555]"
+  },
+  "MP2P": {
+    "Template": "video/MP2P",
+    "Reference": "[RFC3555]"
+  },
+  "MP2T": {
+    "Template": "video/MP2T",
+    "Reference": "[RFC3555]"
+  },
+  "mp4": {
+    "Template": "video/mp4",
+    "Reference": "[RFC4337][RFC6381]"
+  },
+  "MP4V-ES": {
+    "Template": "video/MP4V-ES",
+    "Reference": "[RFC6416]"
+  },
+  "MPV": {
+    "Template": "video/MPV",
+    "Reference": "[RFC3555]"
+  },
+  "mpeg": {
+    "Template": "",
+    "Reference": "[RFC2045][RFC2046]"
+  },
+  "mpeg4-generic": {
+    "Template": "video/mpeg4-generic",
+    "Reference": "[RFC3640]"
+  },
+  "nv": {
+    "Template": "video/nv",
+    "Reference": "[RFC4856]"
+  },
+  "ogg": {
+    "Template": "video/ogg",
+    "Reference": "[RFC5334][RFC7845]"
+  },
+  "parityfec": {
+    "Template": "video/parityfec",
+    "Reference": "[RFC3009]"
+  },
+  "pointer": {
+    "Template": "video/pointer",
+    "Reference": "[RFC2862]"
+  },
+  "quicktime": {
+    "Template": "video/quicktime",
+    "Reference": "[RFC6381][Paul_Lindner]"
+  },
+  "raptorfec": {
+    "Template": "video/raptorfec",
+    "Reference": "[RFC6682]"
+  },
+  "raw": {
+    "Template": "video/raw",
+    "Reference": "[RFC4175]"
+  },
+  "rtp-enc-aescm128": {
+    "Template": "video/rtp-enc-aescm128",
+    "Reference": "[_3GPP]"
+  },
+  "rtploopback": {
+    "Template": "video/rtploopback",
+    "Reference": "[RFC6849]"
+  },
+  "rtx": {
+    "Template": "video/rtx",
+    "Reference": "[RFC4588]"
+  },
+  "scip": {
+    "Template": "video/scip",
+    "Reference": "[SCIP][Michael_Faller][Daniel_Hanson]"
+  },
+  "smpte291": {
+    "Template": "video/smpte291",
+    "Reference": "[RFC8331]"
+  },
+  "SMPTE292M": {
+    "Template": "video/SMPTE292M",
+    "Reference": "[RFC3497]"
+  },
+  "ulpfec": {
+    "Template": "video/ulpfec",
+    "Reference": "[RFC5109]"
+  },
+  "vc1": {
+    "Template": "video/vc1",
+    "Reference": "[RFC4425]"
+  },
+  "vc2": {
+    "Template": "video/vc2",
+    "Reference": "[RFC8450]"
+  },
+  "vnd.CCTV": {
+    "Template": "video/vnd.CCTV",
+    "Reference": "[Frank_Rottmann]"
+  },
+  "vnd.dece.hd": {
+    "Template": "video/vnd.dece.hd",
+    "Reference": "[Michael_A_Dolan]"
+  },
+  "vnd.dece.mobile": {
+    "Template": "video/vnd.dece.mobile",
+    "Reference": "[Michael_A_Dolan]"
+  },
+  "vnd.dece.mp4": {
+    "Template": "video/vnd.dece.mp4",
+    "Reference": "[Michael_A_Dolan]"
+  },
+  "vnd.dece.pd": {
+    "Template": "video/vnd.dece.pd",
+    "Reference": "[Michael_A_Dolan]"
+  },
+  "vnd.dece.sd": {
+    "Template": "video/vnd.dece.sd",
+    "Reference": "[Michael_A_Dolan]"
+  },
+  "vnd.dece.video": {
+    "Template": "video/vnd.dece.video",
+    "Reference": "[Michael_A_Dolan]"
+  },
+  "vnd.directv.mpeg": {
+    "Template": "video/vnd.directv.mpeg",
+    "Reference": "[Nathan_Zerbe]"
+  },
+  "vnd.directv.mpeg-tts": {
+    "Template": "video/vnd.directv.mpeg-tts",
+    "Reference": "[Nathan_Zerbe]"
+  },
+  "vnd.dlna.mpeg-tts": {
+    "Template": "video/vnd.dlna.mpeg-tts",
+    "Reference": "[Edwin_Heredia]"
+  },
+  "vnd.dvb.file": {
+    "Template": "video/vnd.dvb.file",
+    "Reference": "[Peter_Siebert][Kevin_Murray]"
+  },
+  "vnd.fvt": {
+    "Template": "video/vnd.fvt",
+    "Reference": "[Arild_Fuldseth]"
+  },
+  "vnd.hns.video": {
+    "Template": "video/vnd.hns.video",
+    "Reference": "[Swaminathan]"
+  },
+  "vnd.iptvforum.1dparityfec-1010": {
+    "Template": "video/vnd.iptvforum.1dparityfec-1010",
+    "Reference": "[Shuji_Nakamura]"
+  },
+  "vnd.iptvforum.1dparityfec-2005": {
+    "Template": "video/vnd.iptvforum.1dparityfec-2005",
+    "Reference": "[Shuji_Nakamura]"
+  },
+  "vnd.iptvforum.2dparityfec-1010": {
+    "Template": "video/vnd.iptvforum.2dparityfec-1010",
+    "Reference": "[Shuji_Nakamura]"
+  },
+  "vnd.iptvforum.2dparityfec-2005": {
+    "Template": "video/vnd.iptvforum.2dparityfec-2005",
+    "Reference": "[Shuji_Nakamura]"
+  },
+  "vnd.iptvforum.ttsavc": {
+    "Template": "video/vnd.iptvforum.ttsavc",
+    "Reference": "[Shuji_Nakamura]"
+  },
+  "vnd.iptvforum.ttsmpeg2": {
+    "Template": "video/vnd.iptvforum.ttsmpeg2",
+    "Reference": "[Shuji_Nakamura]"
+  },
+  "vnd.motorola.video": {
+    "Template": "video/vnd.motorola.video",
+    "Reference": "[Tom_McGinty]"
+  },
+  "vnd.motorola.videop": {
+    "Template": "video/vnd.motorola.videop",
+    "Reference": "[Tom_McGinty]"
+  },
+  "vnd.mpegurl": {
+    "Template": "video/vnd.mpegurl",
+    "Reference": "[Heiko_Recktenwald]"
+  },
+  "vnd.ms-playready.media.pyv": {
+    "Template": "video/vnd.ms-playready.media.pyv",
+    "Reference": "[Steve_DiAcetis]"
+  },
+  "vnd.nokia.interleaved-multimedia": {
+    "Template": "video/vnd.nokia.interleaved-multimedia",
+    "Reference": "[Petteri_Kangaslampi]"
+  },
+  "vnd.nokia.mp4vr": {
+    "Template": "video/vnd.nokia.mp4vr",
+    "Reference": "[Miska_M._Hannuksela]"
+  },
+  "vnd.nokia.videovoip": {
+    "Template": "video/vnd.nokia.videovoip",
+    "Reference": "[Nokia]"
+  },
+  "vnd.objectvideo": {
+    "Template": "video/vnd.objectvideo",
+    "Reference": "[John_Clark]"
+  },
+  "vnd.radgamettools.bink": {
+    "Template": "video/vnd.radgamettools.bink",
+    "Reference": "[Henrik_Andersson]"
+  },
+  "vnd.radgamettools.smacker": {
+    "Template": "video/vnd.radgamettools.smacker",
+    "Reference": "[Henrik_Andersson]"
+  },
+  "vnd.sealed.mpeg1": {
+    "Template": "video/vnd.sealed.mpeg1",
+    "Reference": "[David_Petersen]"
+  },
+  "vnd.sealed.mpeg4": {
+    "Template": "video/vnd.sealed.mpeg4",
+    "Reference": "[David_Petersen]"
+  },
+  "vnd.sealed.swf": {
+    "Template": "video/vnd.sealed.swf",
+    "Reference": "[David_Petersen]"
+  },
+  "vnd.sealedmedia.softseal.mov": {
+    "Template": "video/vnd.sealedmedia.softseal.mov",
+    "Reference": "[David_Petersen]"
+  },
+  "vnd.uvvu.mp4": {
+    "Template": "video/vnd.uvvu.mp4",
+    "Reference": "[Michael_A_Dolan]"
+  },
+  "vnd.youtube.yt": {
+    "Template": "video/vnd.youtube.yt",
+    "Reference": "[Google]"
+  },
+  "vnd.vivo": {
+    "Template": "video/vnd.vivo",
+    "Reference": "[John_Wolfe]"
+  },
+  "VP8": {
+    "Template": "video/VP8",
+    "Reference": "[RFC7741]"
+  },
+  "VP9": {
+    "Template": "video/VP9",
+    "Reference": "[RFC-ietf-payload-vp9-16]"
+  }
+}

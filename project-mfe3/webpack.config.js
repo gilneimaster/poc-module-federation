@@ -9,6 +9,23 @@ sharedMappings.register(
   [/* mapped paths to share */]);
 
 module.exports = {
+  module: {
+    rules: [
+      {
+        test: /\.(?:scss)$/i,
+        use: [
+          {
+            loader: '@frota/core.lib.webpack.convert-url-to-base64-inline'
+          }
+        ],
+      },
+    ],
+  },
+  // resolveLoader: {
+  //   alias: {
+  //     'convert-from-url-to-base64-inline': path.resolve(__dirname, 'custom-loader.js'),
+  //   },
+  // },
   output: {
     uniqueName: "projectMfe3",
     publicPath: "auto"
